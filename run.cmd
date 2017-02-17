@@ -1,0 +1,1 @@
+cmd /c phantomjs.exe onepng.js
